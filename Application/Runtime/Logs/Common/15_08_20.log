@@ -172,3 +172,15 @@ ERR: 无法加载模块:Public
 [ 2015-08-20T16:54:41+08:00 ] ::1 /xiaohei/xiaohei/Public/static/common/scripts.js
 ERR: 无法加载模块:Public
 
+[ 2015-08-20T17:54:17+08:00 ] ::1 /xiaohei/xiaohei/test
+ERR: 无法加载模块:Test
+
+[ 2015-08-20T17:54:23+08:00 ] ::1 /xiaohei/xiaohei/test
+ERR: 无法加载模块:Test
+
+[ 2015-08-20T17:54:35+08:00 ] ::1 /xiaohei/xiaohei/index/Test
+ERR: 无法加载模块:Index
+
+[ 2015-08-20T17:54:45+08:00 ] ::1 /xiaohei/xiaohei/index.php/Test
+ERR: 无法加载模块:Test
+
